@@ -16,7 +16,7 @@ copyright = "© Copyright notice"
 	subtitle = "Crisp, minimal, privacy-conscious personal [blog theme for Hugo](https://github.com/chollinger93/ink-free)"
 
 	# Optional 64x64 avatar image.
-	#avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
+	avatar = "assets/images/gotw_small.png"
 
 	featherIconsCDN = false
 
