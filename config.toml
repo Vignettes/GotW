@@ -1,4 +1,4 @@
-baseURL = "https://georgewolf.net/"
+baseURL = "vignettes.github.io/GotW"
 languageCode = "en-us"
 title = "Ink-Free"
 theme = "ink-free"
@@ -71,7 +71,7 @@ url = "https://github.com/chollinger93/"
 [[params.social]]
 name = "RSS"
 icon = "rss"
-url = "/index.xml"
+url = ""
 
 [taxonomies]
    tag = "tags"
