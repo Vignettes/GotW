@@ -1,6 +1,6 @@
-baseURL = "vignettes.github.io/GotW"
+baseURL = "georgewolf.net"
 languageCode = "en-us"
-title = "George (on the) Wen"
+title = "George (on the) Web"
 theme = "ink-free"
 paginate = 5
 publishDir = "docs"
