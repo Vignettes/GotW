@@ -1,6 +1,6 @@
 baseURL = "vignettes.github.io/GotW"
 languageCode = "en-us"
-title = "Ink-Free"
+title = "George (on the) Wen"
 theme = "ink-free"
 paginate = 5
 publishDir = "docs"
