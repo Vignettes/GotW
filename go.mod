@@ -1,0 +1,5 @@
+module github.com/wangchucheng/hugo-eureka
+
+go 1.20
+
+require wangchucheng.com/hugo-eureka v0.9.3 // indirect
