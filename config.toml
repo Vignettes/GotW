@@ -1,4 +1,4 @@
-baseURL = "https://wwwvignettes.github.io/GotW/"
+baseURL = "https://wwwvignettes.github.io/"
 languageCode = "en-us"
 title = "George (on the) Web"
 theme = "ink-free"
@@ -16,7 +16,7 @@ copyright = "© Copyright notice"
 	subtitle = "Crisp, minimal, privacy-conscious personal [blog theme for Hugo](https://github.com/chollinger93/ink-free)"
 
 	# Optional 64x64 avatar image.
-	avatar = "assets/images/gotw_small.png"
+	avatar = "gotw_small.png"
 
 	featherIconsCDN = false
 
