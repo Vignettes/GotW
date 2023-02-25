@@ -1,4 +1,4 @@
-baseURL = "https://wwwvignettes.github.io/GotW/gp-pages/"
+baseURL = "https://wwwvignettes.github.io/GotW/"
 languageCode = "en-us"
 title = "George (on the) Web"
 theme = "ink-free"
