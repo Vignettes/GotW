@@ -17,8 +17,8 @@ copyright = "no one owns ideas"
 	subtitle = "echo $RANDOM"
        
         url = 'https://github.com/vignettes/GotW'
-        content_dir = /content
-        branch: = main
+        content_dir = "/content"
+        branch: = "main"
 
 
 
