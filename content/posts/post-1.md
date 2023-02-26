@@ -13,7 +13,7 @@ Instead of a rant about why this site is important I'm going to lead by saying t
 Speaking of which...
 
 ## Things I Need To Add
-- [ ] Comment features
+- [ ] Comment features or way to repost via Twitter 
 - [ ] Content about current projects
 - [ ] Add templates for deploying content
 - [ ] Meme magic
