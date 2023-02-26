@@ -14,6 +14,14 @@ copyright = "no one owns ideas"
 
 [params]
 	subtitle = "echo $RANDOM"
+        
+features:
+  repository:
+    url: 'https://github.com/vignettes/GotW'
+    content_dir: content
+    branch: main
+
+
 
 	# Optional 64x64 avatar image.
 	avatar = "/gotw_small.png"
