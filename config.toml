@@ -3,8 +3,8 @@ languageCode = "en-us"
 title = "george@ot-Web:$◻️"
 theme = "ink-free"
 paginate = 5
-enableRobotsTXT = true
-features = ["repository"]
+enableRobotsTXT = "true"
+features = ["Repository"]
 
 copyright = "no one owns ideas"
 # Demo only
