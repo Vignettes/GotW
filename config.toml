@@ -71,7 +71,7 @@ url = "https://github.com/chollinger93/"
 [[params.social]]
 name = "RSS"
 icon = "rss"
-url = ""
+url = "/index.xml"
 
 [taxonomies]
    tag = "tags"
