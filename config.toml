@@ -76,7 +76,7 @@ url = "https://github.com/Vignettes/"
 [[params.social]]
 name = "RSS"
 icon = "rss"
-url = "#"
+url = "/index.xml"
 
 [taxonomies]
    tag = "tags"
@@ -84,7 +84,7 @@ url = "#"
 [markup]
   [markup.highlight]
     codeFences = true
-    guessSyntax = false
+    guessSyntax = true
     hl_Lines = ""
     lineNoStart = 1
     lineNos = true
