@@ -3,6 +3,7 @@ title: "GMI"
 date: 2023-02-25T02:01:58+05:30
 description: "I refuse to pay for web hosting."
 tags: [random]
+editable: true
 ---
 ```git
 git commit -m "Gonna Make It"
