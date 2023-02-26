@@ -12,15 +12,14 @@ copyright = "no one owns ideas"
 [permalinks]
   posts = "/:year/:month/:title"
 
+[repository]
+    url = "https://github.com/vignettes/GotW"
+    content_dir = "content"
+    branch = "main"
+
 [params]
 	subtitle = "echo $RANDOM"
-        
-    [features]
-        [repository]
-            url = "https://github.com/vignettes/GotW"
-            content_dir = "content"
-            branch = "main"
-
+       
 
 
 	# Optional 64x64 avatar image.
