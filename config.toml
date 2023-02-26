@@ -4,6 +4,7 @@ title = "george@ot-Web:$◻️"
 theme = "ink-free"
 paginate = 5
 enableRobotsTXT = true
+features = ["repository"]
 
 copyright = "no one owns ideas"
 # Demo only
