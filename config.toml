@@ -34,9 +34,11 @@ copyright = "no one owns ideas"
 
 	# Stupid footers :)
 	footers = [ 
-		"Killer robots from the 3rd dimension",
-		"Escaping underwater cages"
-	]
+		"Killer Roombas",
+		"Escaping underwater cages", "Underwater basket weaving", 
+                "Failing ⬆️", "Tornados"
+                ]
+	
 
 	# Github base url
 	#github = "https://github.io/vignettes"
