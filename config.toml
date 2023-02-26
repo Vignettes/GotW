@@ -16,9 +16,9 @@ copyright = "no one owns ideas"
 [params]
 	subtitle = "echo $RANDOM"
        
-        url: 'https://github.com/<username>/<repository>'
-        content_dir: content
-        branch: main
+        url: 'https://github.com/vignettes/GotW'
+        content_dir: "/content"
+        branch: "main"
 
 
 
