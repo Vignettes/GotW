@@ -1,11 +1,11 @@
 baseURL = "https://www.georgewolf.net/"
 languageCode = "en-us"
-title = "George <sub>Web</sup>"
+title = "George.onthe.Web"
 theme = "ink-free"
 paginate = 5
 
 
-copyright = <small>"no one owns ideas"</small>
+copyright = "no one owns ideas"
 # Demo only
 #ignoreErrors = ["error-missing-instagram-accesstoken"]
 
@@ -13,7 +13,7 @@ copyright = <small>"no one owns ideas"</small>
   posts = "/:year/:month/:title"
 
 [params]
-	subtitle = "Where the mind will outlive the body"
+	subtitle = "let the spirit outlive the body"
 
 	# Optional 64x64 avatar image.
 	avatar = "/gotw_small.png"
