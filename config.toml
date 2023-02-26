@@ -12,11 +12,6 @@ copyright = "no one owns ideas"
 [permalinks]
   posts = "/:year/:month/:title"
 
-[repository]
-    url = "https://github.com/vignettes/GotW"
-    content_dir = /content
-    branch = ORIGIN:main
-
 [params]
 	subtitle = "echo $RANDOM"
        
