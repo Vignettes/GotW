@@ -17,8 +17,8 @@ copyright = "no one owns ideas"
         
 [[features]]
   [[[repository]]]
-    url = 'https://github.com/vignettes/GotW'
-    content_dir = content
+    url = "https://github.com/vignettes/GotW"
+    content_dir = /content
     branch = main
 
 
