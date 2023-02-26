@@ -6,7 +6,7 @@ type: "page"
 ---
 > Funny fact about a cage, they're never built for just one group
 > 
-> -El-P
+> - El-P
 
 # Why?
 **Without allowing an outlet for freethinking and creativity we all would go a little mad.**
