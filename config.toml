@@ -16,6 +16,10 @@ copyright = "no one owns ideas"
 [params]
 	subtitle = "echo $RANDOM"
        
+        url: 'https://github.com/<username>/<repository>'
+        content_dir: content
+        branch: main
+
 
 
 	# Optional 64x64 avatar image.
