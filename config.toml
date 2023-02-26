@@ -5,7 +5,7 @@ theme = "ink-free"
 paginate = 5
 
 
-copyright = "© Copyright notice"
+copyright = <small>"no one owns ideas"</small>
 # Demo only
 #ignoreErrors = ["error-missing-instagram-accesstoken"]
 
