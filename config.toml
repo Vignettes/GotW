@@ -4,7 +4,7 @@ title = "george@ot-Web:$◻️"
 theme = "ink-free"
 paginate = 5
 enableRobotsTXT = "true"
-features = ["Repository"]
+
 
 copyright = "no one owns ideas"
 # Demo only
@@ -16,10 +16,7 @@ copyright = "no one owns ideas"
 [params]
 	subtitle = "echo $RANDOM"
     
-    [repository]       
-        url = 'https://github.com/vignettes/GotW'
-        content_dir = "/content"
-        branch: = "ORIGIN/main"
+
 
 
 
