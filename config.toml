@@ -1,6 +1,6 @@
 baseURL = "https://www.georgewolf.net/"
 languageCode = "en-us"
-title = "George (on the) Web"
+title = "George <sub>Web</sup>"
 theme = "ink-free"
 paginate = 5
 
