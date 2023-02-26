@@ -14,8 +14,8 @@ copyright = "no one owns ideas"
 
 [repository]
     url = "https://github.com/vignettes/GotW"
-    content_dir = "content"
-    branch = "main"
+    content_dir = content
+    branch = main
 
 [params]
 	subtitle = "echo $RANDOM"
