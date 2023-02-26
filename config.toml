@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "George (on the) Web"
 theme = "ink-free"
 paginate = 5
-publishDir = "docs"
+
 
 copyright = "© Copyright notice"
 # Demo only
