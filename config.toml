@@ -16,7 +16,7 @@ copyright = "© Copyright notice"
 	subtitle = "Where the mind will outlive the body"
 
 	# Optional 64x64 avatar image.
-	avatar = "gotw_small.png"
+	avatar = "/gotw_small.png"
 
 	featherIconsCDN = false
 
@@ -34,12 +34,12 @@ copyright = "© Copyright notice"
 
 	# Stupid footers :)
 	footers = [ 
-		"What Tiger King can teach us about x86 Assembly",
-		"10 Reasons why gcc SHOULD be re-written in JavaScript - You won't believe #8!"
+		"Killer robots from the 3rd dimension",
+		"Escaping underwater cages"
 	]
 
 	# Github base url
-	github = "https://github.com/chollinger93/ink-free"
+	#github = "https://github.io/vignettes"
 
 
 # Nav.
@@ -66,7 +66,7 @@ weight = 4
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://vignettes.github.io/"
+url = "https://github.com/Vignettes/"
 
 [[params.social]]
 name = "RSS"
