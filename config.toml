@@ -1,6 +1,7 @@
 baseURL = "https://www.georgewolf.net/"
 languageCode = "en-us"
-title = "George.onthe.Web"
+title = "George Wolf"
+icon = "🐺
 theme = "ink-free"
 paginate = 5
 
@@ -62,6 +63,11 @@ weight = 3
 name = "Tags"
 url = "/tags"
 weight = 4
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://www.twitter.con/georgeontheweb_"
 
 [[params.social]]
 name = "Github"
