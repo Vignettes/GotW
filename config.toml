@@ -13,7 +13,7 @@ copyright = "© Copyright notice"
   posts = "/:year/:month/:title"
 
 [params]
-	subtitle = "Crisp, minimal, privacy-conscious personal [blog theme for Hugo](https://github.com/chollinger93/ink-free)"
+	subtitle = "Where the mind will outlive the body"
 
 	# Optional 64x64 avatar image.
 	avatar = "gotw_small.png"
@@ -66,12 +66,12 @@ weight = 4
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/chollinger93/"
+url = "https://vignettes.github.io/"
 
 [[params.social]]
 name = "RSS"
 icon = "rss"
-url = ""
+url = "#"
 
 [taxonomies]
    tag = "tags"
