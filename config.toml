@@ -18,7 +18,7 @@ copyright = "no one owns ideas"
        
         url = 'https://github.com/vignettes/GotW'
         content_dir = "/content"
-        branch: = "main"
+        branch: = main
 
 
 
