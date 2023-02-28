@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>george@ot-Web:$◻️</title>
-    <link>https://www.georgewolf.net/</link>
+    <link>uil/</link>
     <description>Recent content on george@ot-Web:$◻️</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>no one owns ideas</copyright>
-    <lastBuildDate>Mon, 27 Feb 2023 21:33:02 -0500</lastBuildDate><atom:link href="https://www.georgewolf.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Feb 2023 21:33:02 -0500</lastBuildDate><atom:link href="uil/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WhenLaunch</title>
-      <link>https://www.georgewolf.net/projects/project-1/</link>
+      <link>uil/projects/project-1/</link>
       <pubDate>Mon, 27 Feb 2023 21:33:02 -0500</pubDate>
       
-      <guid>https://www.georgewolf.net/projects/project-1/</guid>
+      <guid>uil/projects/project-1/</guid>
       <description>Overview In early 2022 I started working to distill the Risk Analysis for Initial Needs (RAIN) framework.</description>
     </item>
     
     <item>
       <title>George 🐺</title>
-      <link>https://www.georgewolf.net/about/</link>
+      <link>uil/about/</link>
       <pubDate>Sat, 25 Feb 2023 20:40:38 -0500</pubDate>
       
-      <guid>https://www.georgewolf.net/about/</guid>
+      <guid>uil/about/</guid>
       <description>Funny fact about a cage, they&amp;rsquo;re never built for just one group
 El-P Why? Without allowing an outlet for freethinking and creativity we all would go a little mad.
 I wanted to build a platform where my thoughts could be critiqued, even after I am gone. Assuming GitHub doesn&amp;rsquo;t go the way of GeoCities, that is.
@@ -31,10 +31,10 @@ This website does not utilize a Content Delivery Network (CDN), or any type of t
     
     <item>
       <title>GMI</title>
-      <link>https://www.georgewolf.net/2023/02/gmi/</link>
+      <link>uil/2023/02/gmi/</link>
       <pubDate>Sat, 25 Feb 2023 02:01:58 +0530</pubDate>
       
-      <guid>https://www.georgewolf.net/2023/02/gmi/</guid>
+      <guid>uil/2023/02/gmi/</guid>
       <description>1 git commit -m &amp;#34;Gonna Make It&amp;#34; Instead of a rant about why this site is important I&amp;rsquo;m going to lead by saying these words&amp;ndash;and any words on this page&amp;ndash;aren&amp;rsquo;t important. If anything of importance or value comes out of this it will be because we had a change to exchange ideas and concepts.
 Speaking of which&amp;hellip;
 Things I Need To Add Comment features or way to repost via Twitter Content about current projects Add templates for deploying content Meme magic This site contains no trackers.</description>
