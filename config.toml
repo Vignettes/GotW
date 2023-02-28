@@ -81,6 +81,11 @@ icon = "twitter"
 url = "https://www.twitter.com/georgeontheweb_"
 
 [[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/george-wolf"
+
+[[params.social]]
 name = "Github"
 icon = "github"
 url = "https://github.com/Vignettes/"
