@@ -2,11 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.georgewolf.net/about/</loc>
-    <lastmod>2023-02-25T20:40:38-05:00</lastmod>
+    <loc>https://www.georgewolf.net/projects/</loc>
+    <lastmod>2023-02-27T21:33:02-05:00</lastmod>
+    <priority>0</priority>
   </url><url>
     <loc>https://www.georgewolf.net/</loc>
-    <lastmod>2023-02-25T02:01:58+05:30</lastmod>
+    <lastmod>2023-02-27T21:33:02-05:00</lastmod>
+  </url><url>
+    <loc>https://www.georgewolf.net/projects/project-1/</loc>
+    <lastmod>2023-02-27T21:33:02-05:00</lastmod>
+  </url><url>
+    <loc>https://www.georgewolf.net/about/</loc>
+    <lastmod>2023-02-25T20:40:38-05:00</lastmod>
   </url><url>
     <loc>https://www.georgewolf.net/2023/02/gmi/</loc>
     <lastmod>2023-02-25T02:01:58+05:30</lastmod>
