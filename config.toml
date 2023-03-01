@@ -47,7 +47,7 @@ copyright = "no one owns ideas"
 	
 
 	# Github base url
-	#github = "https://github.io/vignettes"
+	github = "https://github.com/vignettes/"
 
 
 # Nav.
