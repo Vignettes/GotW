@@ -12,7 +12,7 @@ copyright = "no one owns ideas"
 
 [permalinks]
   posts = "/:year/:month/:title"
-  projects = "/:year/:/month/:title"
+  projects = "/:year/:month/:title"
 
 [params]
 	subtitle = "echo $RANDOM"
